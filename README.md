@@ -11,7 +11,7 @@
 
 - 🤝 Interested **and Working on finetuning LLMs and SLMs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rishi2123?tab=repositories](https://github.com/rishi2123?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/rishi2123?tab=repositories)
 
 - 📫 How to reach me **rishidev.snu@gmail.com**
 
