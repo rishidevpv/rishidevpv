@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Dev</h1>
 <h3 align="center">A Passionate AI and Data Science student passionate about Generative AI, Machine Learning, Data analysis, and practical LLM applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi2123&label=Profile%20views&color=0e75b6&style=flat" alt="rishi2123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishidevpv&label=Profile%20views&color=0e75b6&style=flat" alt="rishidevpv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rishiii23" target="blank"><img src="https://img.shields.io/twitter/follow/rishiii23?logo=twitter&style=for-the-badge" alt="rishiii23" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 🤝 Interested **and Working on finetuning LLMs and SLMs**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/rishi2123?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/rishidevpv?tab=repositories)
 
 - 📫 How to reach me **rishidev.snu@gmail.com**
 
